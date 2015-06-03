@@ -46,9 +46,9 @@ h1:nth-child(2)
 }
 
 .rotate {
-	transform:  rotate(345deg) scale(0.8);
-	-webkit-transform:  rotate(345) scale(0.8);
-	-moz-transform: rotate(345) scale(0.8);
-	-o-transform:  rotate(345) scale(0.8);
-	-ms-transform:  rotate(345) scale(0.8);
+	transform: rotate(345deg) scale(0.8);
+	-webkit-transform: rotate(345deg) scale(0.8);
+	-moz-transform: rotate(345deg) scale(0.8);
+	-o-transform: rotate(345deg) scale(0.8);
+	-ms-transform: rotate(345deg) scale(0.8);
 }
